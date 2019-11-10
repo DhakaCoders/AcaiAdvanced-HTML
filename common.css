@@ -211,7 +211,6 @@ h5 {
     h5 {
         font-size: 22px
     }
-    
 
 }
  
@@ -240,6 +239,9 @@ h5 {
 @media(max-width: 767px){
     body {
         font-size: 18px;
+    }
+    p{
+        margin-bottom: 20px;
     }
     h1 {
         font-size: 30px
