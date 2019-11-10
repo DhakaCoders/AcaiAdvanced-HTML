@@ -176,9 +176,9 @@
 	.profile-show-sec-wrp .fl-content-sec-4-head h3 br{
 		display: none;
 	}
-	.rare-root-feature-lft-des h2 br,
+	.rare-root-feature-lft-des .rare-root-feature-des h2 br,
 	.rare-root-feature-des h2 br{
-		display: none;
+		display: none !important;
 	}
 	.rare-root-feature-wrp ul li .rare-root-feature-des{
 		padding-right: 45px !important;
@@ -188,6 +188,22 @@
 	}
 	.rare-root-feature-des p br{
 		display: none;
+	}
+	.rare-root-feature-lft-des h2,
+	.rare-root-feature-des h2,
+	.ta-title-headding h2 {
+	    line-height: 44px;
+	}
+	.rare-root-feature-wrp ul li.ta-root-feature-img .rare-root-feature-des {
+	    padding-left: 170px;
+	    padding-right: 20px !important;
+	}
+	.ta-root-feature-img .rare-root-feature-des p{
+		padding-right: 50px;
+	}
+	.profile-show-sec-wrp .fl-content-sec-4-head{
+		padding-left: 15px;
+		padding-right: 15px;
 	}
 }
  
@@ -200,6 +216,40 @@
 	    width: 100%;
 	    max-width: 355px;
 	}
+	.rare-root-feature-lft-des h2,
+	.rare-root-feature-des h2,
+	.ta-title-headding h2 {
+	    line-height: 38px;
+	}
+	.rare-root-feature-wrp ul li .rare-root-feature-des{
+		width: 100%;
+		padding: 25px 25px 10px;
+	}
+	.rare-root-feature-wrp ul li {
+	    padding-bottom: 50px !important;
+	    text-align: center;
+	}
+	.rare-root-feature-wrp ul li img{
+		position: static;
+		padding-top: 30px;
+	}
+	.rare-root-feature-des p {
+	    padding-right: 0;
+	}
+	.rare-root-feature-wrp ul li .rare-root-feature-des {
+	    padding-right: 25px !important;
+	}
+	.rare-root-feature-wrp ul li.ta-root-feature-img img {
+	    position: static;
+	}
+	.rare-root-feature-wrp ul li.ta-root-feature-img .rare-root-feature-des {
+	    padding-left: 20px;
+	    padding-right: 20px !important;
+	}
+	.ta-root-feature-img .rare-root-feature-des p {
+	    padding-right: 0;
+	}
+
 
 }
 
@@ -218,6 +268,15 @@
 	.profile-show-inr blockquote{
 		padding: 35px 15px 15px;
 	}
+	.rare-root-feature-lft-des h2,
+	.rare-root-feature-des h2,
+	.ta-title-headding h2 {
+	    line-height: 36px;
+	}
+	.profile-dsc h5{
+		font-size: 20px;
+		line-height: 22px;
+	}
 }
 
 
@@ -229,12 +288,27 @@
 
 
 @media(max-width: 575px){
-    
+    .rare-root-feature-lft-des h2,
+	.rare-root-feature-des h2,
+	.ta-title-headding h2 {
+	    line-height: 34px;
+	}
+	.profile-dsc h5{
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.profile-dsc{
+		margin-left: 0;
+	}
 }
 
 
 @media(max-width:479px) {
-    
+    .rare-root-feature-lft-des h2,
+	.rare-root-feature-des h2,
+	.ta-title-headding h2 {
+	    line-height: 30px;
+	}
 }
 
 @media(max-width: 359px){
