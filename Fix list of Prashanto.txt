@@ -1,12 +1,12 @@
 1. https://www.screencast.com/t/a0Tsnb5U
-	text ta maybe r aktu niche nambe
+	text ta maybe r aktu niche nambe --done
 	https://www.screencast.com/t/x7xS7eCUph
-	bg position ata daw
-
+	bg position ata daw --done
+ 
 Responsive
 -----------
 1. 	i) https://www.screencast.com/t/us0w3aov
 	ii) https://www.screencast.com/t/jp0fDdKhY
-	ai gap ta onek besi mone hosche. 1023 thake full kore daw
+	ai gap ta onek besi mone hosche. 1023 thake full kore daw--done
 2. https://www.screencast.com/t/nvMVqKrT
-	ai text ta always niche thakbe. left a br use kore manage korte paro
+	ai text ta always niche thakbe. left a br use kore manage korte paro --done
