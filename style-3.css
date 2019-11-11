@@ -140,7 +140,7 @@ span.text-inline-mark-left{
 .fl-pkg-sec-bg-hdr{
     background-repeat: no-repeat!important;
     background-size: cover!important;
-    background-position: center center!important;
+    background-position: center bottom!important;
     border-radius: 8px 8px 0 0;
     margin-bottom: 85px;
     padding: 20px 20px 25px;
