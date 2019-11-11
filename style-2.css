@@ -73,10 +73,13 @@
 .profile-show-wrp ul li{
 	margin-bottom: 45px;
 }
+.profile-show-sec-wrp .fl-content-sec-4-head{
+	margin-bottom: 5px;
+}
 .profile-dsc{
 	padding-left: 65px;
 	background-repeat: no-repeat;
-	background-position: left 5px top -6px;
+	background-position: left 5px top -3px;
 	background-size: 54px 54px;
 	padding-top: 8px;
 	margin-bottom: -20px;
@@ -91,7 +94,7 @@
 	margin-bottom: 5px;
 }
 .profile-show-inr blockquote {
-    padding: 35px 25px 20px;
+    padding: 35px 50px 20px 30px;
     margin: 0;
     border-left: 0;
     font-size: 22px;
@@ -135,7 +138,7 @@
 .rare-root-feature-wrp ul li.ta-root-feature-img img{
     position: absolute;
     left: 0 !important;
-    top:-60px;
+    top:-95px;
     z-index: 3;
 }
 .rare-root-feature-wrp ul li img {
@@ -265,8 +268,10 @@
 	.health-risks-grd-wrp li:nth-child(3n+1) {
 	    clear: none !important;
 	}
-	.profile-show-inr blockquote{
-		padding: 35px 15px 15px;
+	.profile-show-inr blockquote {
+	    padding: 30px 10px 15px;
+	    font-size: 18px;
+	    line-height: 22px;
 	}
 	.rare-root-feature-lft-des h2,
 	.rare-root-feature-des h2,
@@ -276,6 +281,12 @@
 	.profile-dsc h5{
 		font-size: 20px;
 		line-height: 22px;
+	}
+	.profile-show-wrp ul {
+	    padding-top: 20px;
+	}
+	.profile-show-wrp ul li {
+	    margin-bottom: 25px;
 	}
 }
 
