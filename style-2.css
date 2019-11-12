@@ -9,8 +9,7 @@
 	line-height: 56px;
 }
 .ta-title-headding h2 span{
-	display: inline-block;
-	vertical-align: baseline;
+	display: block;
 	color: #1fba9f;
 }
 
@@ -161,8 +160,6 @@
 .rare-root-feature-lft-des h2 span,
 .rare-root-feature-des h2 span {
     color: #1fba9f;
-    display: inline-block;
-    vertical-align: baseline;
 }
 
 
@@ -227,7 +224,7 @@
 	}
 	.rare-root-feature-wrp ul li img{
 		position: static;
-		padding-top: 30px;
+		padding-bottom: 40px;
 	}
 	.rare-root-feature-des p {
 	    padding-right: 0;
