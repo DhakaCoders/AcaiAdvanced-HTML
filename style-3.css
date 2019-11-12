@@ -455,6 +455,15 @@ span.text-inline-mark-left{
         display: block!important;
     }
 }
+@media(max-width: 1199px){
+    .full-width-1023{
+        width: 100%!important;
+    }
+    .out-stock-sec-grd-img-2{
+        padding-bottom: 25px;
+    }
+}
+
  
 
 @media(max-width: 991px){
