@@ -4,34 +4,33 @@
 .out-stock-sec{
     padding-top: 60px;
     padding-bottom: 20px;
-    background-size: cover!important;
-    background-position: center!important;
-    background-repeat: no-repeat!important;
     color: #fff;
     position: relative;
+    background-color: #0a79a2;
 }
-.out-stock-sec:before{
-    content: "";
+.out-stock-sec .container{
+    position: relative;
+    z-index: 2;
+}
+.top-wave-img{
     position: absolute;
     left: 0;
     right: 0;
-    top: 0;
-    background: url(assets/images/stock-out-sec-bg-top.jpg);
-    background-repeat: repeat-x;
-    height: 13px;
-    z-index: 2;
+    top: -1px;
+    z-index: 1;
+    height: 485px;
+    background: center top;
+    background-repeat: repeat-x!important;
 }
-
-.out-stock-sec:after{
-    content: "";
+.btm-wave-img{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -10px;
-    background: url(assets/images/stock-out-sec-bg-btm.jpg);
-    background-repeat: repeat-x;
-    height: 25px;
-    z-index: 2;
+    bottom: -1px;
+    z-index: 1;
+    height: 366px;
+    background: center bottom;
+    background-repeat: repeat-x!important;
 }
 
 .out-stock-sec-hdr h2{
