@@ -40,7 +40,7 @@ header.fl-hdr {
 
 
 .fl-shipping {
-    padding-bottom: 25px;
+    padding-bottom: 28px;
     background: #fff;
     box-sizing: border-box;
     position: relative
@@ -48,12 +48,12 @@ header.fl-hdr {
 .fl-shipping img {
     display: inline-block;
     position: relative;
-    top: 41px;
+    top: 36px;
     width: 57px;
     height: 57px
 }
 .fl-shipping .two_sec img {
-    top: 34px;
+    top: 28px;
     width: 71px;
     height: 71px
 }
@@ -68,12 +68,12 @@ header.fl-hdr {
     font-family: 'OpenSans-Semibold';
     text-transform: uppercase;
     font-size: 24px;
-    margin-top: 56px;
+    margin-top: 45px;
     width: 100%
 }
 .fl-shipping .two_sec>h4 {
     font-family: 'OpenSans-Bold';
-    margin-top: 42px
+    margin-top: 32px;
 }
 .fl-shipping:before {
     content: "";
@@ -84,7 +84,7 @@ header.fl-hdr {
     left: 0;
     right: 0;
     border-radius: 50px;
-    top: 63px
+    top: 57px;
 }
 
 
@@ -206,7 +206,7 @@ span.fl-txt-line-bg{
 }
 .fl-content-sec-5-wrp{
     position: relative;
-    padding: 65px 0 50px;
+    padding: 67px 0 52px;
     z-index: 1;
     color:#fff;
 }
@@ -245,7 +245,8 @@ span.fl-txt-line-bg{
     padding-right: 0;
 }
 .acai-powerful-des p {
-    margin-bottom: 30px;
+    margin-bottom: 27px;
+    line-height: 25px;
 }
 .acai-powerful-des p:last-child {
     margin-bottom: 0;
