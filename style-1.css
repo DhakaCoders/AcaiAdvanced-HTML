@@ -288,7 +288,20 @@ span.fl-txt-line-bg{
         width: 100%;
         float: left;
         padding: 0;
-    }    
+    }   
+    .acai-powerful-img {
+        width: 100%;
+        padding-right: 0;
+        text-align: center;
+        margin-bottom: 25px;
+    } 
+    .acai-powerful-des {
+        width: 100%;
+        padding-left:0;
+        padding-right: 0;
+    } 
+
+
 }
 
 @media(max-width: 991px){
@@ -301,18 +314,6 @@ span.fl-txt-line-bg{
     .special-offer-dsc {
         padding: 80px 283px 80px 0;
     }
-    .acai-powerful-img {
-        width: 100%;
-        padding-right: 0;
-        text-align: center;
-        margin-bottom: 25px;
-    } 
-
-    .acai-powerful-des {
-        width: 100%;
-        padding-left:0;
-        padding-right: 0;
-    } 
 
 }
 
