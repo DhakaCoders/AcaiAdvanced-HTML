@@ -159,8 +159,10 @@
     font-family: 'Merriweather-Black';
 }
 .rare-root-feature-lft-des h2 span,
-.rare-root-feature-des h2 span{
-	color: #1fba9f;
+.rare-root-feature-des h2 span {
+    color: #1fba9f;
+    display: inline-block;
+    vertical-align: baseline;
 }
 
 @media(max-width: 1199px){
@@ -178,10 +180,6 @@
 	}
 	.profile-show-sec-wrp .fl-content-sec-4-head h3 br{
 		display: none;
-	}
-	.rare-root-feature-lft-des .rare-root-feature-des h2 br,
-	.rare-root-feature-des h2 br{
-		display: none !important;
 	}
 	.rare-root-feature-wrp ul li .rare-root-feature-des{
 		padding-right: 45px !important;
@@ -212,9 +210,6 @@
  
 
 @media(max-width: 991px){
-	.ta-title-headding h2 span {
-	    display: inline;
-	}
 	.health-risks-grd-wrp li {
 	    width: 100%;
 	    max-width: 355px;
