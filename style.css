@@ -307,7 +307,7 @@ header.fl-hdr {
 }
 .special-offer-dsc{
     position: relative;
-    padding: 83px 305px 100px 0;
+    padding: 83px 305px 90px 0;
     z-index: 3;
 }
 .special-offer-dsc h4 {
@@ -366,7 +366,7 @@ span.fl-txt-line-bg{
 }
 .fl-content-sec-4-head{
     background-repeat: no-repeat!important;
-    background-position: center bottom!important;
+    background-position: center bottom 1px!important;
     background-size: cover!important;
     padding: 25px 10px 25px;
     border-radius: 8px 8px 0 0;
@@ -777,7 +777,7 @@ span.text-inline-mark-left{
 .fl-pkg-sec-bg-hdr{
     background-repeat: no-repeat!important;
     background-size: cover!important;
-    background-position: center bottom!important;
+    background-position: center bottom 1px!important;
     border-radius: 8px 8px 0 0;
     margin-bottom: 85px;
     padding: 20px 20px 25px;
