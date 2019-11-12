@@ -121,7 +121,7 @@
 .rare-root-feature-wrp ul li .rare-root-feature-des{
     width: 75%;
     float: left;
-    padding: 25px 25px 5px 30px;
+    padding: 25px 25px 0 30px;
     border: 10px solid #000;
     position: relative;
     z-index: 2;
