@@ -1,6 +1,10 @@
 .dst-ml-15 {
     margin-left: -15px;
 }
+.gap-15{
+    height: 15px;
+    width: 100%;
+}
 .out-stock-sec{
     padding-top: 60px;
     padding-bottom: 20px;
@@ -57,6 +61,7 @@ span.text-inline-mark-left {
     font-family: 'OpenSans-Bold';
     color: #000;
     padding: 2px 20px 4px 15px;
+    margin-right: -10px;
 }
 span.text-inline-mark-left{
     vertical-align: bottom;
@@ -64,12 +69,12 @@ span.text-inline-mark-left{
     top: 2px;
 }
 .dft-text-module p span.text-inline-mark{
-    margin-left: -5px;
-    padding-left: 5px;
+    margin-left: -10px;
+    padding-left: 10px;
     padding-right: 12px;
 }
 .dft-text-module p:last-child{
-    padding-bottom: 18px;
+    padding-bottom: 0;
 }
 .dft-multiline-bg p {
     margin-bottom: 0;
@@ -82,6 +87,7 @@ span.text-inline-mark-left{
 }
 .fl-ftr-top-sec-rgt-img{
     text-align: right;
+    padding-top: 10px;
 }
 .fl-ftr-top-sec-rgt-img img{
     margin-top: -10px;
@@ -116,6 +122,9 @@ span.text-inline-mark-left{
     padding: 45px 0 50px;
     background-size: cover!important;
     background-position: center center;
+}
+.pkg-area-con-bg.pkg-area-con-bg-1{
+    padding-top: 0;
 }
 .fl-pkg-sec-hdr{
     text-align: center;
