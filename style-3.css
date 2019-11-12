@@ -57,6 +57,7 @@ span.text-inline-mark-left {
     font-family: 'OpenSans-Bold';
     color: #000;
     padding: 2px 20px 4px 15px;
+    margin-right: -10px;
 }
 span.text-inline-mark-left{
     vertical-align: bottom;
@@ -116,6 +117,9 @@ span.text-inline-mark-left{
     padding: 45px 0 50px;
     background-size: cover!important;
     background-position: center center;
+}
+.pkg-area-con-bg.pkg-area-con-bg-1{
+    padding-top: 0;
 }
 .fl-pkg-sec-hdr{
     text-align: center;
