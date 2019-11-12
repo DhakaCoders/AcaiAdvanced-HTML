@@ -192,6 +192,7 @@ span.fl-txt-line-bg{
 .fl-advanced-des li {
     position: relative;
     padding:7px 0 25px 46px;
+    font-family: 'OpenSans-Bold';
 }
 .fl-advanced-des{
     padding-bottom: 25px;
