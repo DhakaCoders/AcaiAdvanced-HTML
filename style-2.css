@@ -65,7 +65,7 @@
 }
 .health-risks-grd-wrp li:nth-child(4) .health-risks-dsc p{
 	padding-left: 10px;
-	padding-right: 10px;
+	padding-right: 30px;
 } 
 .profile-show-wrp ul{
 	padding-top: 35px;
@@ -121,8 +121,7 @@
 .rare-root-feature-wrp ul li .rare-root-feature-des{
     width: 75%;
     float: left;
-    padding: 25px 25px 25px 30px;
-    padding-bottom: 35px;
+    padding: 25px 25px 5px 30px;
     border: 10px solid #000;
     position: relative;
     z-index: 2;
@@ -143,12 +142,13 @@
 }
 .rare-root-feature-wrp ul li img {
     position: absolute;
-    right: 10px;
-    bottom: 70px;
+    right: 30px;
+    bottom: 68px;
     z-index: 3;
 }
 .rare-root-feature-wrp ul li:last-child img{
 	bottom: 35px;
+	right: 15px !important;
 }
 .rare-root-feature-lft-des h2,
 .rare-root-feature-des h2 {
@@ -165,6 +165,7 @@
     vertical-align: baseline;
 }
 
+
 @media(max-width: 1199px){
 	.ta-flt-rgt-img{
 		float: none !important;
@@ -178,14 +179,11 @@
 	    width: 100%;
 	    max-width: 370px;
 	}
-	.profile-show-sec-wrp .fl-content-sec-4-head h3 br{
-		display: none;
-	}
 	.rare-root-feature-wrp ul li .rare-root-feature-des{
 		padding-right: 45px !important;
 	}
 	.rare-root-feature-des p {
-	    padding-right: 200px;
+	    padding-right: 215px;
 	}
 	.rare-root-feature-des p br{
 		display: none;
@@ -233,6 +231,7 @@
 	}
 	.rare-root-feature-des p {
 	    padding-right: 0;
+	    text-align: left;
 	}
 	.rare-root-feature-wrp ul li .rare-root-feature-des {
 	    padding-right: 25px !important;
@@ -246,6 +245,9 @@
 	}
 	.ta-root-feature-img .rare-root-feature-des p {
 	    padding-right: 0;
+	}
+	.profile-show-sec-wrp .fl-content-sec-4-head h3 br{
+		display: none;
 	}
 
 
