@@ -21,6 +21,13 @@
     font-weight: ;
     font-style: normal
 }
+@font-face {
+    font-family: 'OpenSansItalic';
+    src: url(assets/fonts/OpenSansItalic/OpenSansItalic.woff2) format('woff2'), 
+         url(assets/fonts/OpenSansItalic/OpenSansItalic.woff) format('woff');
+    font-weight: ;
+    font-style: normal
+}
 
 @font-face {
     font-family: 'Vollkorn-Semibold';
@@ -322,10 +329,11 @@ header.fl-hdr {
     line-height: 1.2;
 }
 .special-offer-dsc span {
-    font-size: 26px;
+    font-size: 24px;
     display: inline-block;
     vertical-align: baseline;
     margin-bottom: 10px;
+    font-family: 'OpenSansItalic';
 }
 .fl-content-sec-3-wrp{
     padding:50px 0 17px;
@@ -862,6 +870,10 @@ span.text-inline-mark-left{
 }
 .fl-pkg-grd-controller > ul > li:nth-child(2) .fl-pkg-grd-ftr{
     padding-top: 25px;
+}
+.fl-pkg-save-price {
+    color: #f00;
+    padding-top: 15px;
 }
 .fl-pkg-grd-col-hdr{
     border-radius: 5px 5px 0 0;
