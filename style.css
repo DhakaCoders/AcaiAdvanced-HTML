@@ -1229,7 +1229,7 @@ span.text-inline-mark-left{
     }
     .rare-root-feature-wrp ul li .rare-root-feature-des{
         width: 100%;
-        padding: 25px 25px 10px;
+        padding: 25px 25px 0;
     }
     .rare-root-feature-wrp ul li {
         padding-bottom: 40px !important;
