@@ -285,7 +285,7 @@ header.fl-hdr {
     height: 14px;
     width: 100%;
     position: absolute;
-    background: #18ecc8;
+    background: #ffbc64;
     left: 0;
     right: 0;
     border-radius: 50px;
@@ -309,21 +309,20 @@ header.fl-hdr {
     right: 0;
     background-repeat: no-repeat!important;
     background-size: cover!important;
-    background-position: center center!important;
+    background-position: center bottom!important;
     z-index: 2
 }
 .special-offer-dsc{
     position: relative;
-    padding: 83px 305px 90px 0;
+    padding: 86px 305px 95px 0;
     z-index: 3;
+    color:#fff;
 }
 .special-offer-dsc h4 {
-    color:#fff;
     margin-bottom: 18px;
 }
 .special-offer-dsc h1 {
     font-family: 'Vollkorn-Bold';
-    color: #ffec49;
     margin-bottom: 20px;
     text-shadow: 1px 3px 8px #000;
     line-height: 1.2;
@@ -481,7 +480,7 @@ span.fl-txt-line-bg{
 }
 .ta-title-headding h2 span{
     display: block;
-    color: #1fba9f;
+    color: #ff9000;
 }
 
 .ta-flt-rgt-img{
@@ -601,7 +600,7 @@ span.fl-txt-line-bg{
 }
 .rare-root-feature-wrp ul li.ta-root-feature-img .rare-root-feature-des{
     float: right;
-    border: 10px solid #1fba9f;
+    border: 10px solid #701a75;
     padding-left: 140px;
 }
 .rare-root-feature-wrp ul li.ta-root-feature-img img{
@@ -630,7 +629,7 @@ span.fl-txt-line-bg{
 }
 .rare-root-feature-lft-des h2 span,
 .rare-root-feature-des h2 span {
-    color: #1fba9f;
+    color: #ff9000;
 }
 
 
@@ -647,7 +646,7 @@ span.fl-txt-line-bg{
     padding-bottom: 20px;
     color: #fff;
     position: relative;
-    background-color: #0a79a2;
+    background-color: #85338a;
 }
 .out-stock-sec .container{
     position: relative;
@@ -780,7 +779,7 @@ span.text-inline-mark-left{
 .fl-pkg-sec-hdr h2 strong{
     display: inline-block;
     vertical-align: baseline;
-    color: #1fba9f;
+    color:#ff9000;
 }
 .fl-pkg-sec-bg-hdr{
     background-repeat: no-repeat!important;
