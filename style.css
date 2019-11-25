@@ -2,55 +2,62 @@
     font-family: 'OpenSans-Regular';
     src: url(assets/fonts/OpenSans-Regular/OpenSans-Regular.woff2) format('woff2'), 
     	 url(assets/fonts/OpenSans-Regular/OpenSans-Regular.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'OpenSans-Semibold';
     src: url(assets/fonts/OpenSans-Semibold/OpenSans-Semibold.woff2) format('woff2'), 
          url(assets/fonts/OpenSans-Semibold/OpenSans-Semibold.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 } 
 
 @font-face {
     font-family: 'OpenSans-Bold';
     src: url(assets/fonts/OpenSans-Bold/OpenSans-Bold.woff2) format('woff2'), 
      	 url(assets/fonts/OpenSans-Bold/OpenSans-Bold.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'OpenSansItalic';
     src: url(assets/fonts/OpenSansItalic/OpenSansItalic.woff2) format('woff2'), 
          url(assets/fonts/OpenSansItalic/OpenSansItalic.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Vollkorn-Semibold';
     src: url(assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff2) format('woff2'), 
          url(assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff) format('woff');
-    font-weight: ;
-    font-style: italic
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Vollkorn-Bold';
     src: url(assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff2) format('woff2'), 
     	 url(assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Merriweather-Black';
     src: url(assets/fonts/Merriweather-Black/Merriweather-Black.woff2) format('woff2'), 
     	 url(assets/fonts/Merriweather-Black/Merriweather-Black.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 
@@ -58,29 +65,33 @@
     font-family: 'Barlow-Bold';
     src: url(assets/fonts/Barlow-Bold/barlow-bold-webfont.woff2) format('woff2'), 
     	 url(assets/fonts/Barlow-Bold/barlow-bold-webfont.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'BarlowCondensed-Regular';
     src: url(assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff2) format('woff2'), 
          url(assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Barlow-Medium';
     src: url(assets/fonts/Barlow-Medium/Barlow-Medium.woff2) format('woff2'), 
          url(assets/fonts/Barlow-Medium/Barlow-Medium.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Barlow-Extrabold';
     src: url(assets/fonts/Barlow-Extrabold/Barlow-Extrabold-webfont.woff2) format('woff2'), 
          url(assets/fonts/Barlow-Extrabold/Barlow-Extrabold-webfont.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 
@@ -88,8 +99,9 @@
     font-family: 'BarlowCondensed-Bold';
     src: url(assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff2) format('woff2'), 
     	 url(assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 *,*:focus,.btn,.btn:focus {
